@@ -2,7 +2,7 @@
 
 **Objective:**  
 Assess the creditworthiness of a sample corporate issuer using simplified financial statements.  
-Perform quantitative ratio analysis, interpret trends, identify risks, and form a preliminary credit opinion.
+Perform quantitative ratio analysis, interpret trends, identify risks and form a preliminary credit opinion.
 
 **Skills Demonstrated:**  
 - Financial statement analysis  
@@ -58,7 +58,7 @@ A plausible rating range could be **BBB– to BB+**, depending on:
 - Management quality
 - Country/FX risk
 
-# Conclusion
+### Conclusion
 This project demonstrates a simplified corporate credit analysis workflow:
 - Import financial statements  
 - Compute key credit ratios  
@@ -66,4 +66,4 @@ This project demonstrates a simplified corporate credit analysis workflow:
 - Identify trends and risks  
 - Form a preliminary credit opinion  
 
-Project by: Faith N. Weyombo - Financial and Data Analyst
+### Project by: Faith N. Weyombo - Financial and Data Analyst
