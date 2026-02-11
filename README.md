@@ -1,10 +1,10 @@
-# Corporate Credit Risk Analysis – Sample Underwriting Project
+### Corporate Credit Risk Analysis – Sample Underwriting Project
 
-**Objective:**  
+### Objective
 Assess the creditworthiness of a sample corporate issuer using simplified financial statements.  
 Perform quantitative ratio analysis, interpret trends, identify risks and form a preliminary credit opinion.
 
-**Skills Demonstrated:**  
+### Skills Demonstrated
 - Financial statement analysis  
 - Liquidity & leverage assessment  
 - Cash-flow interpretation  
